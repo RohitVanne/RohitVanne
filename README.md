@@ -1,5 +1,5 @@
 ### Hi, I'm ***Rohit Vanne***
-#### UNT grad student | Data geek & web builder | Love Python, SQL, and Decision Trees | Predicted JD.com delivery times | Fueled by code and coffee | vannerohit03@gmail.com
+UNT grad student | Data geek & web builder | Love Python, SQL, and BI tools | Fueled by code and coffee | vannerohit03@gmail.com
 <!--
 **RohitVanne/RohitVanne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
